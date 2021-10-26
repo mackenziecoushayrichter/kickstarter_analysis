@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-This project utilizes data from global Kickstarter campaigns to analyze trends.
+This project utilizes data from global Kickstarter campaigns to analyze trends related to if campaigns were successful or not.
 
 ### Purpose
 
