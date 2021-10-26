@@ -25,6 +25,9 @@ I am very comfortable using MS Excel in my daily life, so I did not encounter to
 ## Results
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 -The first conclusion I can draw from the Outcomes Based on Launch Date is that May followed by June had the largest number of successful campaigns.  May had 111 successful campaigns and June had 100.  One could argue that this is simply just because those months also had the largest total number of launced campaigns (May 166 and June 153 total campaigns).  However, May and June also had the largest percentages of campaigns launced in those months compared to the other months.  67% of the campaigns launched in May and 65% of the campaigns launched in June were successful.  The average perentage of successful campaigns across all months was 61%.  One could conclude from this data that if you launch your campaign in May, you would have the best odds of your campaign being successful.
+<br>
+<br>
+ -The second conclusion I can draw is that December would be the worst month to launch a campaign because it had the highest rate of failed campaigns.  47% of campaigns launched in Decemeber failed.  Also, 4% of campaigns launched in Decemeber were canceled.  This means that more than half of the campaigns in December (51%) were either failed or canceled. (If you combine the number of failed and canceled campaigns the average percentage for each month is 39%).  Only 49% of campaigns in Decemeber were successful, which is the lowest rate of all the months as shown by the graph above.  This is also below the average of 61% mentioned above. 
  
 
 - What can you conclude about the Outcomes based on Goals?
