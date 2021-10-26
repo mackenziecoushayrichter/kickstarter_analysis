@@ -30,8 +30,16 @@ I am very comfortable using MS Excel in my daily life, so I did not encounter to
  -The second conclusion I can draw is that December would be the worst month to launch a campaign because it had the highest rate of failed campaigns.  47% of campaigns launched in Decemeber failed.  Also, 4% of campaigns launched in Decemeber were canceled.  This means that more than half of the campaigns in December (51%) were either failed or canceled. (If you combine the number of failed and canceled campaigns the average percentage for each month is 39%).  Only 49% of campaigns in Decemeber were successful, which is the lowest rate of all the months as shown by the graph above.  This is also below the average of 61% mentioned above. 
  
 
-- What can you conclude about the Outcomes based on Goals?
+### What can you conclude about the Outcomes based on Goals?
+- I can conclude that campaigns with goals of less than $5,000 had the higest success rate.  These campaigns achieved a success rate of 73% to 76%.  Campaigns that had fundraising goals of $45,000 or more only had a 13% or lower successful rate.
 
-- What are some limitations of this dataset?
+### What are some limitations of this dataset?
+-There are a few limitations from this dataset.  One would be that the data could be considered somewhat outdated, as the data ends in 2017.  I would be curious to see the dataset expanded through 2021, to see how macro environmental factors such as the gloabl pandenmic starting in 2020 affected the outcomes of this data. This is because for this analysis we are focusing on theater and plays, which are social gatherings.  In addition, loss of jobs or income for people in 2020 could affect the number of backers or the amount of their donations.
+<br>
+<br>
+-There are also some additional graphs or charts that I would include to be able to analyze this data further.  Currently this is worldwide data.  I would break down the outcomes based on goals by country because not all currency is the same in each country.  This chart is not necessairly comparing apples to apples because $100,000 USD is not necessairly the same as 100,000 SEK.  As seen in the data in the chart above there were 13% of campaigns with goals greater than 50,000 that were successful.  If you are looking at this chart in the mindset of USD then this information could be misleading. One of these successful campaigns had a goal of 100,000 SEK. For comparison 100,000 SEK is equal to about $11,600 USD.
+<br>
+<br>
+-I would also want to add a chart that looks at the number of backers for each successful campaign and average contribution amount.  I would be curious to see the number of successful campaigns where just one very involved backer contributed the majority of the goal amount. 
 
 - What are some other possible tables and/or graphs that we could create?
